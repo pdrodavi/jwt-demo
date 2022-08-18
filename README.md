@@ -1,6 +1,7 @@
 # JWT Demo
 
 A simple application containing JWT tests using `jose4j` library.
+https://hackernoon.com/how-to-implement-json-web-token-jwt-in-java-spring-boot
 
 The application can also be run to host JWK endpoint in `/jwk` for JWE with JWK test.
 
